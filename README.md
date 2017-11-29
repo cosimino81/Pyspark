@@ -1,3 +1,2 @@
 # Pyspark
-Machine Learning with Spark
-Tutorial
+Machine Learning Tutorial
